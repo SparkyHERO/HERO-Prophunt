@@ -37,7 +37,9 @@ HUNTER_TAUNTS = {
 	"taunts/hunters/nowyoufuckedup.wav",
 	"taunts/hunters/surprisemotherfucker.wav",
 	"taunts/hunters/whosaidthat.wav",
-	"taunts/hunters/nobodygottime.wav"
+	"taunts/hunters/nobodygottime.wav",
+	"taunts/hunters/skills.wav",
+	"taunts/hunters/iwillkillyou.wav",
 }
 
 
@@ -74,8 +76,15 @@ PROP_TAUNTS = {
 	"taunts/props/sail.wav",
 	"taunts/props/whatthefox.wav",
 	"taunts/props/wreckingball.wav",
-	"taunts/props/gangnam.wav",
+	"taunts/props/gangnam1.wav",
 	"taunts/props/babyirule.wav",
+	"taunts/props/gaybar.wav",
+	"taunts/props/gaybar2.wav",
+	"taunts/props/getup.wav",
+	"taunts/props/bubblepop.wav",
+	"taunts/props/puddi.wav",
+	"taunts/props/wtfpc.wav",
+	"taunts/props/pussysalad.wav",
 
 	--"taunts/you_dont_know_the_power.wav",
 	--"taunts/you_underestimate_the_power.wav"
