@@ -2,7 +2,13 @@
 BANNED_PROP_MODELS = {
 	"models/props/cs_assault/dollar.mdl",
 	"models/props/cs_assault/money.mdl",
-	"models/props/cs_office/snowman_arm.mdl"
+	"models/props/cs_office/snowman_arm.mdl",
+	"models/props/cs_office/computer_mouse.mdl",
+	"models/props/cs_office/projector_remote.mdl",
+	"models/props/cs_office/trash_can_p8.mdl",
+	"models/props/cs_office/trash_can_p5.mdl",
+	"models/props/cs_office/phone_p2.mdl",
+	"models/props/cs_office/computer_keyboard.mdl",
 }
 
 
