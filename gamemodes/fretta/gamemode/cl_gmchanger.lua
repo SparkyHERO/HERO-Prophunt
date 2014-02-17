@@ -24,19 +24,19 @@ local function GetVoteScreen()
 end
  
 
-function GM:ShowGamemodeChooser()
+--function GM:ShowGamemodeChooser()
+--
+--	local votescreen = GetVoteScreen()
+--	votescreen:ChooseGamemode()
+--
+--end
 
-	local votescreen = GetVoteScreen()
-	votescreen:ChooseGamemode()
-
-end
-
-function GM:GamemodeWon( mode )
-
-	local votescreen = GetVoteScreen()
-	votescreen:FlashItem( mode )
-
-end
+--function GM:GamemodeWon( mode )
+--
+--	local votescreen = GetVoteScreen()
+--	votescreen:FlashItem( mode )
+--
+--end
 
 function GM:ChangingGamemode( mode, map )
 
