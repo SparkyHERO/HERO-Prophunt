@@ -102,7 +102,7 @@ TAUNT_DELAY = 10
 
 
 // Rounds played on a map (Default: 10)
-ROUNDS_PER_MAP = 10
+ROUNDS_PER_MAP = 16
 
 
 // Time (in seconds) for each round (Default: 300)
